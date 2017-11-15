@@ -1,0 +1,1 @@
+* * * * * shrimp php /var/www/shrimp-api/artisan schedule:run >> /dev/null 2>&1

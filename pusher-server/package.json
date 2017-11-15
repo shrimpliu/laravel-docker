@@ -1,0 +1,12 @@
+{
+    "name": "shrimp-pusher-server",
+    "description": "shrimp Pusher Server",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "laravel-echo-server": "^1.3.1"
+    },
+    "scripts": {
+        "start": "laravel-echo-server start"
+    }
+}
