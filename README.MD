@@ -1,4 +1,4 @@
-# 万峰项目Docker
+# Laravel项目Docker
 
 ## 配置文件
 ```shell
